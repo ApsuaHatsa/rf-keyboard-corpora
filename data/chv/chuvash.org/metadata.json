@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "source": "https://huggingface.co/datasets/alexantonov/chuvash_mono",
+  "date_collected": "2024-05-22",
+  "contact": "alexantonov@gmail.com",
+  "description": "Корпуса из публичных источников на чувашском языке."
+}
