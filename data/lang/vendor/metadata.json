@@ -1,5 +1,6 @@
 {
   "version": "1.0",
+  "vendor": "Vendor's name",
   "source": "https://vendor.example.com/download",
   "date_collected": "2025-07-01",
   "contact": "vendor@example.com",
