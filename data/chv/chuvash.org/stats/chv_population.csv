@@ -1,5 +1,4 @@
 year,total_speakers_global,total_speakers_rf,source_name,source_url
-2019,,230000,Government Census RF,https://rfcensus.example.com/2019
-2020,1200000,,Global Survey,https://gls.example.com/2020
-2021,1250000,240000,International Demographics,https://id.example.com/2021
-2022,1265000,245000,UNESCO World Report,https://unesco.example.com/2022
+2002,,1325382,Government Census RF,https://perepis2002.ru/ct/doc/TOM_04_04.xls
+2010,,1042989,Government Census RF,https://static.statmuseum.ru/results/2010/tom-4-natsionalnyy-sostav-i-vladenie-yazykami-grazhdanstvo-kniga-1.pdf
+2021,,700222,Government Census RF,https://rosstat.gov.ru/storage/mediabank/Tom5_tab4_VPN-2020.xlsx
