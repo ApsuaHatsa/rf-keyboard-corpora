@@ -1,33 +1,219 @@
 {
   "version": "1.0",
-  "layout_name": "Vendor Default",
-  "vendor": "VendorCo",
+  "layout_name": "Tuvan (customized)",
+  "vendor": "Ali Kuzhuget",
   "rows": 4,
   "keys": [
     {
-      "label": "Ӧ",
+      "label": "Й",
+      "row": 1,
+      "column": 0
+    },
+    {
+      "label": "Ү",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "label": "У",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "label": "К",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "label": "Е",
+      "row": 1,
+      "column": 4
+    },
+    {
+      "label": "Н",
+      "row": 1,
+      "column": 5
+    },
+    {
+      "label": "Ң",
+      "row": 1,
+      "column": 6
+    },
+    {
+      "label": "Г",
+      "row": 1,
+      "column": 7
+    },
+    {
+      "label": "Ш",
+      "row": 1,
+      "column": 8
+    },
+    {
+      "label": "З",
+      "row": 1,
+      "column": 9
+    },
+    {
+      "label": "Х",
+      "row": 1,
+      "column": 10
+    },
+    {
+      "label": "Ө",
+      "row": 2,
+      "column": 0
+    },
+    {
+      "label": "Ы",
+      "row": 2,
+      "column": 1
+    },
+    {
+      "label": "В",
+      "row": 2,
+      "column": 2
+    },
+    {
+      "label": "А",
+      "row": 2,
+      "column": 3
+    },
+    {
+      "label": "П",
+      "row": 2,
+      "column": 4
+    },
+    {
+      "label": "Р",
+      "row": 2,
+      "column": 5
+    },
+    {
+      "label": "О",
+      "row": 2,
+      "column": 6
+    },
+    {
+      "label": "Л",
+      "row": 2,
+      "column": 7
+    },
+    {
+      "label": "Д",
+      "row": 2,
+      "column": 8
+    },
+    {
+      "label": "Ж",
+      "row": 2,
+      "column": 9
+    },
+    {
+      "label": "Э",
       "row": 2,
       "column": 10
     },
     {
-      "label": "Ң",
+      "label": "Я",
+      "row": 3,
+      "column": 0
+    },
+    {
+      "label": "Ч",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "label": "С",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "label": "М",
+      "row": 3,
+      "column": 3
+    },
+    {
+      "label": "И",
+      "row": 3,
+      "column": 4
+    },
+    {
+      "label": "Т",
       "row": 3,
       "column": 5
+    },
+    {
+      "label": "Ь",
+      "row": 3,
+      "column": 6
+    },
+    {
+      "label": "Б",
+      "row": 3,
+      "column": 7
+    },
+    {
+      "label": "Ю",
+      "row": 3,
+      "column": 8
     }
   ],
   "long_press": [
     {
-      "key": "o",
+      "key": "Т",
       "alternates": [
-        "Ӧ",
-        "Ө"
+        "-"
       ]
     },
     {
-      "key": "u",
+      "key": "Й",
       "alternates": [
-        "Ӱ",
-        "Ü"
+        "!",
+        "Ц"
+      ]
+    },
+    {
+      "key": "Ш",
+      "alternates": [
+        "Щ"
+      ]
+    },
+    {
+      "key": "Б",
+      "alternates": [
+        ","
+      ]
+    },
+    {
+      "key": "Ю",
+      "alternates": [
+        "."
+      ]
+    },
+    {
+      "key": "Э",
+      "alternates": [
+        "?"
+      ]
+    },
+    {
+      "key": "Ь",
+      "alternates": [
+        "Ъ"
+      ]
+    },
+    {
+      "key": "Е",
+      "alternates": [
+        "Ё"
+      ]
+    },
+    {
+      "key": "Ө",
+      "alternates": [
+        "Ф"
       ]
     }
   ]
