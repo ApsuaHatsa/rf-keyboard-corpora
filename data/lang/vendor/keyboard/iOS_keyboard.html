@@ -56,6 +56,13 @@
       user-select: none;
       position: relative;
     }
+    .long-press {
+      top: 0;
+      right: 0;
+      position: absolute;
+      margin: 0.2em;
+      color: #888;
+    }
     .key:active {
       background: #dedede;
     }
@@ -125,6 +132,10 @@
         const long = layout.long_press?.find(lp => lp.key === key.label);
         if (long) {
           keyEl.dataset.alt = long.alternates.join(" ");
+          const longDiv = document.createElement("div");
+          longDiv.className = "long-press";
+          longDiv.textContent = long.alternates[0];
+          keyEl.appendChild(longDiv);
         }
 
         rows[key.row - 1].push({ column: key.column, el: keyEl });
