@@ -138,7 +138,7 @@
           keyEl.appendChild(longDiv);
         }
 
-        rows[key.row - 1].push({ column: key.column, el: keyEl });
+        rows[key.row].push({ column: key.column, el: keyEl });
       });
 
       rows.forEach(rowKeys => {
