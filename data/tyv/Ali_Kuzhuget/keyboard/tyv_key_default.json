@@ -2,7 +2,7 @@
   "version": "1.0",
   "layout_name": "Tuvan (customized)",
   "vendor": "Ali Kuzhuget",
-  "rows": 3,
+  "rows": 4,
   "keys": [
     {
       "label": "Й",
@@ -170,8 +170,8 @@
     {
       "key": "Й",
       "alternates": [
-        "!",
-        "Ц"
+        "Ц",        
+        "!"
       ]
     },
     {
