@@ -202,7 +202,7 @@
         key.addEventListener("mouseup", (e) => {
           clearTimeout(holdTimer);
           if (!longPressed) {
-            output.value += e.target.textContent;
+            output.value += e.target.textContent[0];
           }
         });
       });
