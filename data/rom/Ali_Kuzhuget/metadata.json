@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "vendor": "Vendor's name",
-  "source": "https://vendor.example.com/download",
-  "date_collected": "2025-07-01",
-  "contact": "vendor@example.com",
-  "description": "Корпуса из публичных источников и собственных записей носителей."
+  "vendor": "Ali Kuzhuget",
+  "source": "https://huggingface.co/datasets/Agisight/rom_word_freq",
+  "date_collected": "2025-07-27",
+  "contact": "agisight@gmail.com",
+  "description": "Корпус из https://github.com/burushona/uniparser-soviet-romani."
 }
