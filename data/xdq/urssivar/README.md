@@ -1,6 +1,6 @@
 # Данные для языка `xdq` от вендора Urssivar
 
-- `raw/xdq_mono_100k.txt` - символьный монокорпус
+- `raw/xdq_mono_33k.txt` - символьный монокорпус
 - `frequencies/xdq_monocorpus_freq.csv` — частотности символов, рассчитанные из монокорпуса
 - `stats/xdq_population.csv` - численность носителей
 - `keyboard/xdq_key_default.json` — описание раскладки
