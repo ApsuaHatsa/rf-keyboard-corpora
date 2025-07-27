@@ -10,7 +10,7 @@
       "column": 0
     },
     {
-      "label": "ГЪ",
+      "label": "Гъ",
       "row": 1,
       "column": 1
     },
@@ -20,7 +20,7 @@
       "column": 2
     },
     {
-      "label": "ХЪ",
+      "label": "Хъ",
       "row": 1,
       "column": 3
     },
@@ -40,7 +40,7 @@
       "column": 6
     },
     {
-      "label": "КЪ",
+      "label": "Къ",
       "row": 1,
       "column": 7
     },
@@ -110,7 +110,7 @@
       "column": 9
     },
     {
-      "label": "ЛЪ",
+      "label": "Лъ",
       "row": 2,
       "column": 10
     },
@@ -125,7 +125,7 @@
       "column": 1
     },
     {
-      "label": "ГЬ",
+      "label": "Гь",
       "row": 3,
       "column": 2
     },
@@ -190,7 +190,7 @@
       "column": 3
     },
     {
-      "label": "ХЬ",
+      "label": "Хь",
       "row": 4,
       "column": 4
     },
@@ -200,7 +200,7 @@
       "column": 5
     },
     {
-      "label": "КЬ",
+      "label": "Кь",
       "row": 4,
       "column": 6
     },
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "key": "ГЬ",
+      "key": "Гь",
       "alternates": [
         "Ъ"
       ]
