@@ -1,8 +1,7 @@
-
 {
   "version": "1.0",
-  "layout_name": "Ossetian",
-  "vendor": "Alina Kanukova",
+  "layout_name": "Sakha (customized)",
+  "vendor": "Ali Kuzhuget",
   "rows": 4,
   "keys": [
     {
@@ -38,17 +37,17 @@
     {
       "label": "Г",
       "row": 1,
-      "column": 6
+      "column": 7
     },
     {
       "label": "Ш",
       "row": 1,
-      "column": 7
+      "column": 8
     },
     {
       "label": "Щ",
       "row": 1,
-      "column": 8
+      "column": 6
     },
     {
       "label": "З",
@@ -86,32 +85,32 @@
       "column": 4
     },
     {
-      "label": "Æ",
+      "label": "Р",
       "row": 2,
       "column": 5
     },
     {
-      "label": "Р",
+      "label": "О",
       "row": 2,
       "column": 6
     },
     {
-      "label": "О",
+      "label": "Л",
       "row": 2,
       "column": 7
     },
     {
-      "label": "Л",
+      "label": "Д",
       "row": 2,
       "column": 8
     },
     {
-      "label": "Д",
+      "label": "Ж",
       "row": 2,
       "column": 9
     },
     {
-      "label": "Ж",
+      "label": "Э",
       "row": 2,
       "column": 10
     },
@@ -146,7 +145,7 @@
       "column": 5
     },
     {
-      "label": "Ъ",
+      "label": "Ь",
       "row": 3,
       "column": 6
     },
@@ -163,15 +162,39 @@
   ],
   "long_press": [
     {
-      "key": "Æ",
+      "key": "Ь",
       "alternates": [
-        "Э"
+        "Һ"
       ]
     },
     {
-      "key": "Ъ",
+      "key": "О",
+      "alternates": [        
+        "Ө"
+      ]
+    },
+    {
+      "key": "Г",
       "alternates": [
-        "Ь"
+        "Ҕ"
+      ]
+    },
+    {
+      "key": "У",
+      "alternates": [
+        "Ү"
+      ]
+    },
+    {
+      "key": "Н",
+      "alternates": [
+        "Ҥ"
+      ]
+    },
+    {
+      "key": "Ь",
+      "alternates": [
+        "Ъ"
       ]
     },
     {
