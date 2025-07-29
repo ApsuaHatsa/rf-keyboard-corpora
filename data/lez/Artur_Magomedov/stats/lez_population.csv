@@ -1,2 +1,3 @@
-year;total_speakers_global;source_name;source_url
-2020;630,000;Ethnologue.com;https://www.ethnologue.com/language/lez/
+year,total_speakers_global,total_speakers_rf,source_name,source_url
+2013,800000,,Ethnologue.com,https://www.ethnologue.com/language/lez/
+2022,630000,,Ethnologue.com,https://www.ethnologue.com/language/lez/
