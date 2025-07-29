@@ -1,1 +1,2 @@
-https://huggingface.co/datasets/maksmerben/tgk-newspaper-corpus
+Нет публичного доступа к полному монокорпусу (доступ по запросу).
+Объём монокорпуса: 21797464 символов.
