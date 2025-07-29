@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "layout_name": "Tuvan (customized)",
+  "vendor": "Ali Kuzhuget",
+  "rows": 4,
+  "keys": [
+    {
+      "label": "Й",
+      "row": 1,
+      "column": 0
+    },
+    {
+      "label": "Ц",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "label": "У",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "label": "К",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "label": "Е",
+      "row": 1,
+      "column": 4
+    },
+    {
+      "label": "Н",
+      "row": 1,
+      "column": 5
+    }
+  ],
+  "long_press": [
+    {
+      "key": "Ь",
+      "alternates": [
+        "Ъ"
+      ]
+    },
+    {
+      "key": "Е",
+      "alternates": [
+        "Ё"
+      ]
+    }
+  ]
+}
