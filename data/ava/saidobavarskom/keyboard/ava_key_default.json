@@ -1,0 +1,237 @@
+{
+  "version": "1.0",
+  "layout_name": "Avar Cyrillic",
+  "vendor": "Said Abdulaev",
+  "rows": 4,
+  "keys": [
+    {
+      "label": "Щ",
+      "row": 1,
+      "column": 0
+    },
+    {
+      "label": "Гъ",
+      "row": 1,
+      "column": 1
+    },
+    {
+      "label": "Ш",
+      "row": 1,
+      "column": 2
+    },
+    {
+      "label": "Хъ",
+      "row": 1,
+      "column": 3
+    },
+    {
+      "label": "Ц",
+      "row": 1,
+      "column": 4
+    },
+    {
+      "label": "ТӀ",
+      "row": 1,
+      "column": 5
+    },
+    {
+      "label": "ЦӀ",
+      "row": 1,
+      "column": 6
+    },
+    {
+      "label": "Къ",
+      "row": 1,
+      "column": 7
+    },
+    {
+      "label": "Ж",
+      "row": 1,
+      "column": 8
+    },
+    {
+      "label": "Й",
+      "row": 1,
+      "column": 9
+    },
+    {
+      "label": "Ф",
+      "row": 1,
+      "column": 10
+    },
+    {
+      "label": "В",
+      "row": 2,
+      "column": 0
+    },
+    {
+      "label": "Г",
+      "row": 2,
+      "column": 1
+    },
+    {
+      "label": "С",
+      "row": 2,
+      "column": 2
+    },
+    {
+      "label": "Б",
+      "row": 2,
+      "column": 3
+    },
+    {
+      "label": "Е",
+      "row": 2,
+      "column": 4
+    },
+    {
+      "label": "Л",
+      "row": 2,
+      "column": 5
+    },
+    {
+      "label": "У",
+      "row": 2,
+      "column": 6
+    },
+    {
+      "label": "И",
+      "row": 2,
+      "column": 7
+    },
+    {
+      "label": "З",
+      "row": 2,
+      "column": 8
+    },
+    {
+      "label": "М",
+      "row": 2,
+      "column": 9
+    },
+    {
+      "label": "Лъ",
+      "row": 2,
+      "column": 10
+    },
+    {
+      "label": "ГӀ",
+      "row": 3,
+      "column": 0
+    },
+    {
+      "label": "КӀ",
+      "row": 3,
+      "column": 1
+    },
+    {
+      "label": "Гь",
+      "row": 3,
+      "column": 2
+    },
+    {
+      "label": "А",
+      "row": 3,
+      "column": 3
+    },
+    {
+      "label": "Р",
+      "row": 3,
+      "column": 4
+    },
+    {
+      "label": "Н",
+      "row": 3,
+      "column": 5
+    },
+    {
+      "label": "Д",
+      "row": 3,
+      "column": 6
+    },
+    {
+      "label": "О",
+      "row": 3,
+      "column": 7
+    },
+    {
+      "label": "Я",
+      "row": 3,
+      "column": 8
+    },
+    {
+      "label": "К",
+      "row": 3,
+      "column": 9
+    },
+    {
+      "label": "Т",
+      "row": 3,
+      "column": 10
+    },
+    {
+      "label": "ЧӀ",
+      "row": 4,
+      "column": 0
+    },
+    {
+      "label": "Ч",
+      "row": 4,
+      "column": 1
+    },
+    {
+      "label": "П",
+      "row": 4,
+      "column": 2
+    },
+    {
+      "label": "Х",
+      "row": 4,
+      "column": 3
+    },
+    {
+      "label": "Хь",
+      "row": 4,
+      "column": 4
+    },
+    {
+      "label": "ХӀ",
+      "row": 4,
+      "column": 5
+    },
+    {
+      "label": "Кь",
+      "row": 4,
+      "column": 6
+    },
+    {
+      "label": "Э",
+      "row": 4,
+      "column": 7
+    },
+    {
+      "label": "ЛӀ",
+      "row": 4,
+      "column": 8
+    },
+    {
+      "label": "Ю",
+      "row": 4,
+      "column": 9
+    }
+  ],
+  "long_press": [
+    {
+      "key": "Е",
+      "alternates": [
+        "Ё"
+      ]
+    },
+    {
+      "key": "Гь",
+      "alternates": [
+        "Ъ"
+      ]
+    }
+  ]
+}

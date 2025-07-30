@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "vendor": "Maksim Melenchenko",
+  "source": "Tajik National Corpus (TNC)",
+  "date_collected": "2025-07-29",
+  "contact": "maksmerben@gmail.com",
+  "description": "Random texts from the TNC’s newspaper subcorpus."
+}
