@@ -1,0 +1,11 @@
+{
+  "language": "Kabardian (East Circassian)",
+  "language_code": "kbd",
+  "version": "1.0",
+  "script": "Cyrillic",
+  "source": "https://huggingface.co/datasets/anzorq/kbd_monolingual",
+  "date_collected": "2023-09-25",
+  "contact": "contact@adigai.ai",
+  "license": "mit",
+  "description": "Корпус из публичных источников."
+}
