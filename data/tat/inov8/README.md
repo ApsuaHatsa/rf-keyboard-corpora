@@ -2,7 +2,7 @@
 
 ## raw/
 Содержит монокорпуса различных размеров:
-- tat_mono_100k.txt
+- tat_mono_707M.txt
 
 ## stats/
 Один файл tat_population.csv со столбцами:
