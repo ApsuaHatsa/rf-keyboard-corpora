@@ -1,0 +1,10 @@
+{
+  "language": "Adyghe (West Circassian)",
+  "language_code": "ady",
+  "version": "1.0",
+  "script": "Cyrillic",
+  "source": "https://huggingface.co/datasets/adiga-ai/circassian-russian_paragraphs_synthetic",
+  "date_collected": "2025-01-01",
+  "contact": "contact@adigai.ai",
+  "description": "Circassian monolingual corpus."
+}
