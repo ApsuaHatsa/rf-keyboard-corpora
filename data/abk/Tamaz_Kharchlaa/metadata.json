@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "vendor": "Tamaz Kharchlaa",
+  "source": "https://huggingface.co/datasets/Nart/monolingual_ab",
+  "date_collected": "2025-08-02",
+  "contact": "AbkhazDNA@proton.me",
+  "description": "Корпуса из публичных источников в HF."
+}
