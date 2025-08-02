@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "vendor": "inov8",
-  "source": "https://vendor.example.com/download",
-  "date_collected": "2025-07-01",
-  "contact": "vendor@example.com",
+  "source": "https://huggingface.co/datasets/yasalma/tt-monocorpus",
+  "date_collected": "2029-08-01",
+  "contact": "blackisnewyellow@gmail.com",
   "description": "Корпуса из публичных источников и собственных записей носителей."
 }
