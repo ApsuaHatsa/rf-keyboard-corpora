@@ -2,7 +2,7 @@
 
 ## raw/
 Содержит монокорпуса различных размеров:
-- lang_mono_1.8B.txt
+- kaz_mono_1.8B.txt
 
 ## stats/
 Один файл kaz_population.csv со столбцами:
