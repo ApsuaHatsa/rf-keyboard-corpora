@@ -1,0 +1,1 @@
+https://huggingface.co/datasets/the-cramer-project/Kyrgyz_News_Corpus/
