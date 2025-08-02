@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "vendor": "Ali Kuzhuget",
+  "source": "https://huggingface.co/datasets/parchiev/ingush-russian/sql-console/F_R4Lsu",
+  "date_collected": "2025-08-01",
+  "contact": "agisight@gmail.com",
+  "description": "Корпуса из публичных источников в HF."
+}
