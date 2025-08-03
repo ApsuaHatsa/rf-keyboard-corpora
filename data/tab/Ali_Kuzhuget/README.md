@@ -33,8 +33,8 @@ tab_key_mapping.json — маппинг расширенных букв на р�
 
 ```sql
 WITH raw_text AS (
-  SELECT UPPER(sentence) AS text
-  FROM train
+  SELECT UPPER(text) AS text
+  FROM tab_cyrl_train
 ),
 normalized_text AS (
   SELECT
