@@ -182,27 +182,21 @@
   ],
   "long_press": [
     {
-      "key": "Н",
+      "key": "Ь",
       "alternates": [
-        "Нъ"
-      ]
-    },
-    {
-      "key": "О",
-      "alternates": [
-        "Оь"
-      ]
-    },
-    {
-      "key": "У",
-      "alternates": [
-        "Уь"
+        "Ъ"
       ]
     },
      {
       "key": "Б",
       "alternates": [
         ","
+      ]
+    },
+    {
+      "key": "Оь",
+      "alternates": [
+        "!"
       ]
     },
     {
@@ -218,21 +212,9 @@
       ]
     },
     {
-      "key": "А",
-      "alternates": [
-        "Аь"
-      ]
-    },
-    {
       "key": "Е",
       "alternates": [
         "Ё"
-      ]
-    },
-    {
-      "key": "Ш",
-      "alternates": [
-        "Щ"
       ]
     }
   ]
