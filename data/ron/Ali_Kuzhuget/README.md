@@ -2,7 +2,7 @@
 
 ## raw/
 Содержит монокорпуса различных размеров:
-- ron_mono_1M.txt (не нашел)
+- ron_mono_8.5M.txt
 
 ## stats/
 Один файл lang_population.csv со столбцами:
@@ -17,7 +17,7 @@ JSON‑файлы с вариантами раскладок:
 - ron_key_default.json (вариант по умолчанию)
 
 ## frequencies/
-- ron_monocorpus_freq.csv — частотности символов (не нашел корпус, видимо, их букве надо дать самый низкий приоритет).
+- ron_monocorpus_freq.csv — частотности символов.
 
 ## mapping/
 - ron_key_mapping.json — маппинг расширенных букв на русские клавиши.

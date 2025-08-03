@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "vendor": "Ali Kuzhuget",
-  "source": "Wikipedia",
+  "source": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/sql-console/xQBLBrl",
   "date_collected": "2025-07-30",
   "contact": "agisight@gmail.com",
-  "description": "Корпуса из публичных источников."
+  "description": "Корпуса из публичных источников в HF."
 }
