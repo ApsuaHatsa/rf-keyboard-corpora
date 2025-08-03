@@ -11,7 +11,7 @@
 
 ## raw/
 Содержит монокорпуса различных размеров:
-- dar_mono_100k.txt
+- dar_mono_18M.txt
 
 ## stats/
 Один файл dar_population.csv со столбцами:
