@@ -1,0 +1,18 @@
+https://huggingface.co/datasets/buryat-translation/buryat_monocorpus
+https://huggingface.co/datasets/buryat-translation/buryat_russian_parallel_corpus
+https://huggingface.co/datasets/uonlp/CulturaX 'bxr'
+https://huggingface.co/datasets/wikimedia/wikipedia '20231101.bxr'
+https://huggingface.co/datasets/cis-lmu/GlotCC-V1 'bxr-Cyrl'
+
+ds_bua_rus = load_dataset('buryat-translation/buryat_russian_parallel_corpus')
+ds_bua_mono = load_dataset("buryat-translation/buryat_monocorpus")
+bua_culturax = load_dataset("uonlp/CulturaX", 'bxr')  # requires access, just fill in survey
+bxr_wiki = load_dataset("wikimedia/wikipedia", "20231101.bxr")
+bxr_glot = load_dataset("cis-lmu/GlotCC-V1", "bxr-Cyrl")
+
+bua_mono_set = set(ds_bua_mono['train']['text'])
+bua_mono_set = bua_mono_set.union(set(ds_bua_rus['train']['bxr']))
+bua_mono_set = bua_mono_set.union(set(bua_culturax['train']['text']))
+bua_mono_set = bua_mono_set.union(set(bxr_wiki['train']['text']))
+bua_mono_set = bua_mono_set.union(set(bxr_glot['train']['content']))
+print(len(bua_mono_set))

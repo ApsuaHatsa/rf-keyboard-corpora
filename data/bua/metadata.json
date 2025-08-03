@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "vendor": "Sarana Abidueva",
+  "source": "https://huggingface.co/datasets/SaranaAbidueva/buryat_monocorpus",
+  "date_collected": "2025-08-03",
+  "contact": "abidueva.sarana02@gmail.com",
+  "description": "Корпуса из публичных источников huggingface, собранные лично корпуса из книг и сайтов"
+}
