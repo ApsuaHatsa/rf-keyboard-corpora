@@ -33,7 +33,7 @@ rut_key_mapping.json — маппинг расширенных букв на р�
 
 ```sql
 WITH raw_text AS (
-  SELECT UPPER(sentence) AS text
+  SELECT UPPER(example) AS text
   FROM train
 ),
 normalized_text AS (
@@ -45,7 +45,7 @@ extracted_letters AS (
   SELECT
     regexp_extract_all(
       norm_text,
-      '(АI)|(ГЪ)|(ДЖ)|(ДЗ)|(КI)|(КЪ)|(КЬ)|(ПI)|(ТI)|(ЦI)|(ЧI)|(УI)|(ЫI)|([АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ])'
+      '(АӀ)|(ГЪ)|(ДЖ)|(ДЗ)|(КӀ)|(КЪ)|(КЬ)|(ПӀ)|(ТӀ)|(ЦӀ)|(ЧӀ)|(УӀ)|(ЫӀ)|([АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ])'
     ) AS letter
   FROM normalized_text
 ),

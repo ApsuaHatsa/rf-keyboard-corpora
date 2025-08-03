@@ -1,1 +1,1 @@
-https://huggingface.co/datasets/Agisight/rut_data/sql-console/Ohov3Y5
+https://huggingface.co/datasets/Agisight/rut_data/sql-console/bq4cg7h
