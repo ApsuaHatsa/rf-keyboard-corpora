@@ -1,6 +1,7 @@
 {
   "version": "1.0",
-  "source": "Sargy A",
+  "vendor": "Sargy A",
+  "source": "https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/viewer/sah_Cyrl",
   "date_collected": "2025-07-27",
   "contact": "syatlaso@gmail.com",
   "description": "Корпуса из публичных источников и собственных записей носителей."

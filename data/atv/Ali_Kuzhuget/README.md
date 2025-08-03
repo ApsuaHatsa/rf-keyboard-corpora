@@ -1,11 +1,11 @@
-# Данные для языка `sah` от вендора Sargy_A
+# Данные для языка `atv` от вендора Ali Kuzhuget
 
 ## raw/
 Содержит монокорпуса различных размеров:
-- sah_mono_231M.txt
+- atv_mono_13.5M.txt
 
 ## stats/
-Один файл sah_population.csv со столбцами:
+Один файл alt_population.csv со столбцами:
 - year
 - total_speakers_global
 - total_speakers_rf
@@ -14,15 +14,13 @@
 
 ## keyboard/
 JSON‑файлы с вариантами раскладок:
-- sah_key_default.json
-- sah_key_4rows.json
-- sah_key_complex.json
+- atv_key_default.json
 
 ## frequencies/
-sah_monocorpus_freq.csv — частотности символов.
+atv_monocorpus_freq.csv — частотности символов.
 
 ## mapping/
-sah_key_mapping.json — маппинг расширенных букв на русские клавиши.
+atv_key_mapping.json — маппинг расширенных букв на русские клавиши.
 
 ## metadata.json
 Обязательные поля: version, source, date_collected, contact, description.
@@ -31,12 +29,12 @@ sah_key_mapping.json — маппинг расширенных букв на р�
 ---  
 **Подсказка:** можно добавлять аудиоданные, фонетику, примеры предложений, графики и др.
 
-## Код для подсчета частот
+## Код для подсчета частот (алфавит такой же как у alt (?))
 
 ```sql
 WITH raw_text AS (
   SELECT UPPER(text) AS text
-  FROM sah_cyrl_train
+  FROM alt_cyrl_train
 ),
 normalized_text AS (
   SELECT
@@ -47,7 +45,7 @@ extracted_letters AS (
   SELECT
     regexp_extract_all(
       norm_text,
-      '([АБВГҔДДьЕЁЖЗИЙКЛМНҤНьОӨПРСҺТУҮФХЦЧШЩъЫьЭЮЯ])'
+      '([АБВГДЕЁЖЗИЙЈКЛМНҤОӦПРСТУӰФХЦЧШЩЪЫЬЭЮЯ])'
     ) AS letter
   FROM normalized_text
 ),
@@ -73,4 +71,5 @@ SELECT
 FROM grouped
 CROSS JOIN total_count
 ORDER BY frequency DESC;
+
 ```
